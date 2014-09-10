@@ -1,0 +1,23 @@
+pwd
+
+cd
+
+git clone- clonar repositorio
+
+git init
+
+git add-añadir fichero a git
+
+git commit
+
+git push
+
+git pull
+
+git remote
+
+git branch
+
+git checkout
+
+git merge
