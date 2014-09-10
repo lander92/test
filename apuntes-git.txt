@@ -2,6 +2,8 @@ pwd
 
 cd
 
+ls
+
 git clone- clonar repositorio
 
 git init
@@ -21,3 +23,5 @@ git branch
 git checkout
 
 git merge
+
+git status
